@@ -17,8 +17,8 @@ def ligma_balls():
         len = 6
         r = "".join(random.sample(chars, len))
 
-        gmail = "daramuhammed17@gmail.com"
-        password = "1fortnite1_A"
+        gmail = ""
+        password = ""
 
         gmail_user = gmail
         gmail_password = password
